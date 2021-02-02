@@ -4,6 +4,8 @@ Changes and additions to the library will be listed here.
 
 ## Unreleased
 
+- Add support for `murmur2` based partitioning.
+
 ## 1.3.0
 
 - Support custom assignment strategy (#846).
